@@ -1,0 +1,113 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "https://i.imgur.com/wP9fCiM.png",
+			"disableicontext": true,
+			"iconposition": 3,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://",
+				"content": [
+					{
+						"title": "Welcome to Age of Dynasties!",
+						"text": "Welcome to Age of Dynasties!\r\n\r\nThe world you are about to enter is vast and untamed, filled with both breathtaking beauty and lurking dangers. Ancient ruins whisper of forgotten civilizations, while powerful creatures roam the land, challenging your claim to survival.\r\n\r\nBut these lands weren't always this way. Whispers on the wind speak of a time before, a time of a single, mighty civilization that fell to ruin over a thousand years ago...\r\n\r\nProfessions: Hone your skills in a variety of crafts.  From the vital art of Alchemy, brewing potent potions and elixirs, to the creation of powerful weapons and armor by skilled Blacksmiths, your chosen profession can be the key to survival and prosperity in this harsh world.\r\n\r\nLore: Uncover the secrets of this world, its history, and the forces that shape its destiny. Learn of the fallen civilization, the cataclysmic event known as the Corruption that shattered it, and the great migration that scattered its people across the land, ushering in the Dawn of the new era.\r\n\r\nRules: Learn the various rules that make our server unique from Building and Combat Rules to Character Creation and more.\r\nThis is your opportunity to leave your mark on the Age of Dynasties.\r\n\r\nDestiny Awaits!!\r\n\r\nBe sure to join our discord (link below) for more information and player/character registration"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Concept",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Forge Your Legacy in the Age of Dynasties!",
+						"text": "A medieval fantasy world awaits, ripe with adventure and danger. Embark on a journey of survival, discovery, and conquest in a world where your choices shape your destiny. \r\n\r\nMaster Your Craft: Join a tribe, or play solo, and rise through the ranks towards Ascension.\r\n\r\nExclusive Content: Enjoy various mods and features that add depth and complexity to your gameplay experience.\r\n\r\nPure Adventure: Experience the core thrill of survival and exploration in a vast, untamed world.\r\n\r\nGrow Your Settlement: Develop your Settlement from a humble Homestead to a thriving Stronghold with our custom tiers and elevate your home to new heights of prosperity.\r\n\r\nGrow Your Region Assist others in progressing your reginal alliance from Outpost to Dynasty.\r\n\r\nConquer Your Foes: Battle and tame fearsome creatures, forge alliances and unlock new technologies in order to dominate the land.\r\n\r\nStarter Kits:  Begin your journey with a few essentials you'll need to gain your footing in your new environment.\r\n\r\nEvents: Participate in exciting challenges and competitions with other adventures to earn various prizes.\r\n\r\nForge Your Story: Immerse yourself in our rich lore and embark on unique quests designed to weave your personal journey into the fabric of Age of Dynasties.  Uncover the mysteries of The Corruption which brought destruction to the Fallen Realm as you etch your name into the history books of our world.\r\n\r\nActive Admins: Our dedicated team ensures a fair and enjoyable experience for all players.\r\n\r\nTailored Gameplay: Experience a truly unique adventure with custom dino levels, spawns, engram mapping and custom loot tables which encourage trade with other adventures, all for a better gaming experience."
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Info",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Mods",
+						"text": "- Primitive Stations [CROSSPLAY]\r\n- Cybers Structures\r\n- Klinger Rustic Buildings\r\n- Typing Bubbles\r\n- Visual Storage (Cross Platform)\r\n- Simple Trade\r\n- Castles, Keeps, and Forts - CKF\r\n- Dino Depot\r\n- RR-MedievalRoleplayDeco!\r\n- MarniiMods Hairstyles\r\n- LegionsShips\r\n- Wings of Winter\r\n- Admin Panel\r\n- WBUI2\r\n- Cliffans Wardrobe\r\n- Better Notebooks\r\n- Potions | Gaia Studios\r\n- Cliffans Backpacks\r\n- RR-Warweapons\r\n- Primitive Weaponry [CROSSPLAY]\r\n- Hyper's Offline Raid Protection\r\n- Breeding Stopper\r\n- Fery's Pathways\r\n- Placeable Spawn Points\r\n- Simple Treasures\r\n- LudopARK Casino"
+					},
+					{
+						"title": "Rates",
+						"text": "- Maturation Speed: 15x\r\n- Incubation Speed: 5x\r\n- Egg Lay Interval: 150%\r\n- Imprint 100%\r\n- Wild Dino food drain: 1.5x\r\n- Player water and food drain: 75%\r\n- Crop Growth: 2x\r\n- Harvest: 3x\r\n- Taming: 4x"
+					},
+					{
+						"title": "Adjustments",
+						"text": "Untameables:\r\n\r\n- Wyvern\r\n- Oasisaur\r\n\r\nAdjustments:\r\n\r\n- Removed Ichthyornis, Alpha Leeds, and Leeds\r\n*Can obtain blubber from the admin market"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Lore",
+				"imageurl": "https://",
+				"content": [
+					{
+						"title": "The Chronicles of the Shattered Age",
+						"text": "The Chronicles of the Shattered Age\r\n\r\nGather round, traveler, and listen well, for this is the tale of how the old world fell and what\r\nawaits in the wilds beyond.\r\n\r\nIn ages past, the Kingdoms of the Ascended stood as monuments to power. Their walls were tall,\r\ntheir forges bright, and their beasts bent to their will. Yet pride bred corruption, and corruption\r\nbirthed ruin. Kings turned greedy, their nobles treacherous, and the land itself rebelled.\r\n\r\nStorms blackened the sky. Fire poured from the mountains. The very creatures that once served\r\nas companions grew wild and vengeful. Kingdom after kingdom crumbled into dust.\r\n\r\nThe survivors fled, casting their hopes into the sea. Many perished in the waves, but some were\r\ndelivered to a strange and untouched land — a realm teeming with life yet cloaked in danger.\r\n\r\nHere they began again. The survivors built with stone and wood, hunted with bow and spear, and\r\nswore to avoid the mistakes that had doomed the old kingdoms. The people agreed they must\r\nlive simply, close to the land, and abandon the prideful ambitions that once led them to ruin.\r\n\r\nYet not all agreed.\r\n\r\nFar to the west, across the misted waters, lies **The Forgotten Realm** — an island of swamp and\r\nruin, home to those who rejected the new order. These outcasts turned their backs on the\r\nprimitive ways, swearing instead to reclaim the ancient knowledge of machines and steel.\r\nVillagers speak of their great furnaces that roar through the night and strange devices that glow\r\nbeneath the stars. Some fear them, calling them cursed for seeking the very power that once\r\ndestroyed the world. Others call them visionaries, believing they may one day restore the\r\ngreatness of the old kingdoms.\r\n\r\nAnd in the east rises **The Aetherion **— a mountain crown veiled in storm and light. Here dwell\r\nthose who seek not corruption but transcendence, binding the old power to order and discipline.\r\nWhere the Forgotten Realm burns with hunger and smoke, the Aetherion gleams with cold\r\nbrilliance, its citadels echoing with the hum of forgotten machines and the promise of a new\r\ndawn.\r\n\r\nAcross the mainland, the ruins of an age older than memory lie half-buried. Monoliths stand like\r\nsilent sentinels, humming softly beneath the moon. Some say they whisper to the brave —\r\npromising power, or perhaps warning of what is yet to come.\r\n\r\nThus begins the** Age of Renewal**, where every hunt, every journey, and every discovery writes\r\nthe next line of history. Will you follow the path of stone and spear, living as the first settlers\r\ndid? Or will you one day dare the passage across the waters, to claim the secrets of the Forgotten\r\nRealm or the Aetherion, and risk all to hold the legacy they guard so fiercely?\r\n\r\nThe choice, traveler, is yours — and the land is watching."
+					},
+					{
+						"title": "Professions",
+						"text": "- Alchemist\r\n- Craftsman\r\n- Warden\r\n- More information is available on discord. \r\n   https://discord.gg/3NX3y7qzxh (or click the link below)"
+					},
+					{
+						"title": "Settlement Tiers",
+						"text": "- Homestead\r\n- Village\r\n- Town\r\n- City\r\n- Kingdom\r\n- More information is available on discord. \r\n   https://discord.gg/3NX3y7qzxh (or click the link below)"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Rules",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "General Rules",
+						"text": "This is a roleplaying server first and foremost. Here are a few rules to follow to ensure a fun and fair environment for everyone.\r\n\r\n**Registration:**\r\n\r\nYou and/or your tribe must be registered on discord before applying for settlement tiers.\r\n\r\n**Tribe Limits:** Each Tribe has a limit of ten players.\r\n\r\n**Taming:** No messing with players while taming. This includes conscious Dino's that are already trapped.\r\n\r\n**PvP Restrictions:**\r\n\r\nNo PvP of any kind during server events, at any place of interest, or any Obelisk.\r\n\r\nDo not loot sleeping bodies under any circumstances.\r\n\r\nPvP is only permitted in the following situations:\r\n1.  Duels (Solo or Tribe)\r\nDuels must be clearly role-played in game or discord chat.  All participants must agree to the terms before engagement.\r\n2.  PVP Zones (These zones are clearly marked on the world-map in discord).  Anyone entering these zones are fair game without warning or consent.  Items and/or Tames lost here will not be reimbursed.\r\n3.  Kingdom Warfare\r\nOnce Kingdom has been established, you may role-play your intention to battle an enemy Kingdom.  They must agree to your terms prior to conflict.\r\n\r\n**Structures:**\r\n\r\nNo structures are to be built with the intention of trapping other players.\r\n\r\n**Turrets:**\r\n\r\nAll turrets at your base are to be set to \"Wilds Only\" except in admin approved  Times of War.\r\n\r\nTurrets are not to be placed randomly; they must only be on your base or your Outpost.\r\n\r\n**Recording PvP:** It is strongly recommended you record all instances of PvP to have on hand should an incident occur that requires admin intervention.\r\n\r\n**Settlement Tiers and Guild Ranks:** If you're ready for a Settlement inspection or have completed your Guild Quest, feel free to make a ticket with the appropriate tool. However please note, it may take a couple days for an admin to be available.\r\n"
+					},
+					{
+						"title": "Building Rules",
+						"text": "Respect Shared Spaces: Avoid foundation spamming and always remove temporary structures like traps and FOBs when they are no longer needed.\r\n\r\nPreserve Landmarks: Do not obstruct access to Explorer Notes, Obelisks, or Artifact caves. You can build near these areas, but ensure a clear and direct path for others.\r\n\r\nTurret Usage: To maintain server performance and fair play, there is a limit of 40 turrets per tribe. These should only target wild creatures, with exceptions outlined in the \"Time of War\" and \"Outpost\" rules.\r\n\r\nBase Limits: Each tribe is allowed one main base. Upon reaching Town tier, you can construct a water pen for aquatic tames.  (This pen must be as close as possible to your base.) and one outpost building (example: one near resources for gathering).\r\n\r\n\r\nReasonable Construction: Keep the size of your base proportionate to your tribe's size. Ideally, you should be able to see from one side of your base to the other. Avoid excessively large or complex structures to minimize lag and maintain server performance. Use large walls where possible to reduce lag.\r\n\r\nNo Trains: No trains are to be built.\r\n\r\nWall Height: To promote fair visual appeal and fair gameplay, perimeter walls should average no more than four walls high.\r\n\r\nRespectful Placement: When choosing a location for your base, be mindful of existing structures. Plan your expansion carefully to avoid encroaching on other players' bases\r\n\r\nAesthetics: Builds must be aesthetically pleasing and decorated accordingly.\r\n\r\nRestricted Areas: Building is strictly prohibited near Places of Interest and Admin Town.\r\n\r\nBuilding away from your settlement: Aside from your water pen at Town tier and your outpost, the only other builds you will be allowed to construct are UNDEFENDED \"Footholds\" in territories which you do not reside. \r\n\r\nThis is limited to one \"Foothold\" per territory as a means to provide a resting place and store a small amount of items while you explore..\r\n\r\nThis is to be no larger than 10x10 and 5 walls high at its tallest point.\r\n\r\nMore information can be found in the Settlement Tier Chapter on discord."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "The Ascended Realms",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "**The Ascended Realms**",
+						"text": "\r\nBeyond the mainland, across the misted seas, lie two forbidden isles — The Forgotten Realm in\r\nthe west and The Aetherion in the east. Only those who ascend may set foot upon their shores.\r\n\r\n1. Path to Ascension\r\n- To ascend, a player must:\r\n  - Earn the title of King.\r\n  - Complete in-game Ascension.\r\n  - Elect to leave the mortal realm and bind themselves to the path of the Ascended.\r\n- Upon ascension, a path must be chosen:\r\n  - The Forgotten Realm — corruption, ruin, and forbidden Tek.\r\n  - The Aetherion — discipline, order, and transcendence.\r\n  - Once chosen, this path cannot be reversed.\r\n\r\n2. Settlements of the Ascended\r\n- Ascended players may maintain two settlements:\r\n  1. Mainland Settlement — their legacy stronghold within the mortal world.\r\n  2. Ascended Settlement — within their chosen island (Forgotten Realm or\r\nAetherion).\r\n- Preserving your tames:\r\n  - You will need to log in to the classic server and grab the tames you wish to keep.  Bring them to admin town and put them in your tribe vault (If more than one member in your tribe, create a folder).  An admin will gather and bring them into safety, preserving them in his/her care until such time you are worthy.\r\n  - Each realm functions independently, with its own resources and risks.\r\n\r\n3. The Doomsday Vault\r\n- A hidden vault within the fortress of the mainland serves as a bridge between worlds.\r\n- Players may store legacy tames from past servers in cryopods here.\r\n- These tames may only be claimed after ascension, when entering one of the restricted\r\nislands.\r\n- This preserves past progression while protecting balance for mainland play.\r\n\r\n4. Marketplace and Economy\r\n- Ascended players are permanently barred from the mainland marketplace.\r\n- They cannot trade with kingdoms, settlements, or guilds outside their realm.\r\n- Economy for the Ascended is limited to their island and conflict with the opposing\r\nrealm."
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/3NX3y7qzxh"
+			}
+		],
+		"version": 2
+	}
+}
