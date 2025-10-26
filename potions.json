@@ -1,0 +1,24 @@
+{
+  "CustomPotionRecipes": {
+    "PrimalItemConsumable_BuffCraftPotionV2_C": {
+      "RequiredItems": [
+        {
+          "ItemClass": "Blueprint'/TrockiiPotions/Items/Basic_Potions/PrimalItemResource_AgilityPotion.PrimalItemResource_AgilityPotion'",
+          "Quantity": 1
+        },
+        {
+          "ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_TheHorn.PrimalItemConsumable_TheHorn'",
+          "Quantity": 1
+        },
+        {
+          "ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareMushroom.PrimalItemResource_RareMushroom'",
+          "Quantity": 50
+        },
+        {
+          "ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'",
+          "Quantity": 50
+        }
+      ]
+    }
+  }
+}
